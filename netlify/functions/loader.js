@@ -1,6 +1,6 @@
 export default async () => {
     return new Response(
-        'loadstring(game:HttpGet("https://vbl-zo0o.onrender.com/loader"))()',
+        'loadstring(game:HttpGet("https://dareivbl.vercel.app/loader"))()',
         {
             status: 200,
             headers: {
